@@ -12,4 +12,4 @@ Dataset/
 │   └── ...
 └── test/
     ├── NS.jpeg
-    └── sahala.jpeg
+    └── FSPA.jpeg
